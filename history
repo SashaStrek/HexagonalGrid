@@ -1,0 +1,9 @@
+ 1043  cd Projects/gitlab/VSCode/
+ 1045  git clone https://github.com/SashaStrek/HexagonalGrid.git
+
+ 1049  python3 -m venv venv
+ 1050  source venv/bin/activate
+ 1052  pip install matplotlib
+ 1053  /Users/astrekal/Projects/gitlab/VSCode/HexagonalGrid/venv/bin/python /Users/astrekal/Projects/gitlab/VSCode/HexagonalGrid/hexagonGrid.py
+
+ 
